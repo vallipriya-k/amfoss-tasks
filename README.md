@@ -27,4 +27,4 @@ My statistics is as shown :
 
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
-| Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
+| Task-00   | [Install Linux](https://github.com/vallipriya-k/amfoss-tasks/tree/main/Task%2000) | Completed |
