@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
 
-Hiiii!! I am Valli Priya K, From S1 B Tech CSE-C at Amrita Vishwa Vidhyapeetham, Amritapuri Campus. I know Python and a little bit of JAVA. My hobbies are Calligraphy, Coding, going down a rabbit hole on a random Thursday. I don't easily give up on stuff when I don't get what I want, I persevere.
+Hiiii!! I am Valli Priya K, From S1 B Tech CSE-C at Amrita Vishwa Vidhyapeetham, Amritapuri Campus. I know Python and a little bit of JAVA. My hobbies are Calligraphy, Coding, going down a rabbit hole on a random Thursday. I don't easily give up on stuff when I don't get what I want, I persevere. A problem I have noticed that Most of the women's safety products are hard to access and very unreliable at the time it is most needed. I wish to solve this and create a device for women's safety that actually is accessible and reliable.  
 
 ## **Why should we choose you?**
 
@@ -28,6 +28,3 @@ My statistics is as shown :
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | Task-00   | [Install Linux](https://github.com/AadarshM07/amfoss-tasks/tree/main/Task-00) | Completed |
-  
-A problem I have noticed that Most of the women's safety products are hard to access and very unreliable at the time it is most needed.  
-I wish to solve this and create a device for women's safety that actually is accessible and reliable.  
