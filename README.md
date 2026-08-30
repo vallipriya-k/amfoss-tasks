@@ -29,4 +29,5 @@ My statistics is as shown :
 | :-:       | :-:         | :-:    |
 | Task-00   | [Install Linux](https://github.com/vallipriya-k/amfoss-tasks/tree/main/Task%2000) | Completed |
 | Task-01   | [Terminal Voyage](https://github.com/vallipriya-k/amfoss-tasks/blob/main/TASK-01/solutions.md) | Completed |
+| Task-02   | [The Grand Line Restoration Initiative](https://github.com/vallipriya-k/amfoss-tasks/tree/main/Task-02) | Completed |
 | Task-03   | [Leetcode Challenge](https://github.com/vallipriya-k/amfoss-tasks/tree/main/Task%2003) | Completed |
